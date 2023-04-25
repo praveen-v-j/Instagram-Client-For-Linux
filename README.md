@@ -17,7 +17,7 @@
   <details>
   <summary><b><code>Client Screenshot</code></b></summary>
 
-  <h3>Blue Theme</h3>
+  <h3>Login Page</h3>
 
   <img src="screenshot/loginpage.png" alt="Login Page">
 
