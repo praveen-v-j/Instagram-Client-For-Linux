@@ -9,9 +9,9 @@
   <h2>Installation</h2>
   <p>To install the Instagram client, please follow these steps:</p>
   <ol>
-    <li>Download the latest release from the releases page on GitHub..</li>
-    <li>Install dependencies using the following command: <code>npm install</code></li>
-    <li>Start the application using the following command: <code>npm start</code></li>
+    <li>Download the latest release from the <a href="https://github.com/praveen3164/Instagram-Client-For-Linux/releases/tag/Client_Releases">releases page</a> on GitHub..</li>
+    <!-- <li>Install dependencies using the following command: <code>npm install</code></li>
+    <li>Start the application using the following command: <code>npm start</code></li> -->
   </ol>
   <h2>Usage</h2>
   <p>Once you have started the application, you will be presented with the Instagram login page. Enter your credentials to log in to your Instagram account.</p>
