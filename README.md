@@ -5,7 +5,7 @@
 </head>
 <body>
   <h1>Instagram Client For Linux</h1>
-  <p>This is an Instagram client application built using Electron, which allows you to browse Instagram on your desktop.</p>
+  <p>This is an Unofficial Instagram client application built using Electron, which allows you to browse Instagram on your desktop.</p>
   <h2>Installation</h2>
   <p>To install the Instagram client, please follow these steps:</p>
   <ol>
